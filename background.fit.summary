@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Jul  1 23:05:43 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : background
+Top-level Entity Name : BrickBreaker
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 600 / 114,480 ( < 1 % )
+    Total combinational functions : 596 / 114,480 ( < 1 % )
+    Dedicated logic registers : 152 / 114,480 ( < 1 % )
+Total registers : 152
+Total pins : 84 / 529 ( 16 % )
+Total virtual pins : 0
+Total memory bits : 57,600 / 3,981,312 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
